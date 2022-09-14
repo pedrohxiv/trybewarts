@@ -35,7 +35,6 @@ body {
 
 main {
   display: flex;
-
 }
 
 #evaluation-form {
@@ -125,7 +124,6 @@ hr {
 .element-label {
   margin-bottom: 20px;
 }
-
 
 .label-right {
   display: flex;
