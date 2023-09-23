@@ -1,6 +1,6 @@
 # Projeto Trybewarts
 
-Neste projeto, você encontrará uma página de formulário da Escola de Magia de Trybewarts, em que as pessoas estudantes poderão enviar seus feedbacks sobre ela. Este projeto é uma oportunidade onde apliquei meus conhecimentos em desenvolvimento web, especialmente em HTML, CSS e JavaScript. Além disso este projeto foi desenvolvido em Pair programming desenvolvendo algumas soft skills.
+Neste projeto, você encontrará uma página de formulário da Escola de Magia de Trybewarts, em que as pessoas estudantes poderão enviar seus feedbacks sobre ela. Este projeto é uma oportunidade onde apliquei meus conhecimentos em desenvolvimento web, especialmente em HTML, CSS e JavaScript. Além disso este projeto foi desenvolvido em pair programming, desenvolvendo algumas soft skills e simulando um ambiente de trabalho de desenvolvimento.
 
 ## O que foi desenvolvido
 
